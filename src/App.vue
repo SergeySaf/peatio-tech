@@ -39,7 +39,7 @@ export default {
          _chatlio[i[a]]||(_chatlio[i[a]]=e(i[a]));
        var n=document.createElement("script"),c=document.getElementsByTagName("script")[0];
        n.id="chatlio-widget-embed", n.src="https://w.chatlio.com/w.chatlio-widget.js", n.async=!0,n.setAttribute("data-embed-version","2.3");
-        n.setAttribute('data-widget-id','b3d49755-40f4-4079-5992-a5bf40d5defb');
+        n.setAttribute('data-widget-id','a07acbd3-e1b2-4d95-554f-436f30afd0b9');
         c.parentNode.insertBefore(n,c);
         _chatlio.hide();
         setTimeout('_chatlio.show({expanded: true})', 20000);
